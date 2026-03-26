@@ -22,3 +22,5 @@ Repeater 的静态资源数据仓库
 - favicon.ico: [`MIT|Qeggs`](./LICENSE)
 - favicon.png: [`MIT|Qeggs`](./LICENSE)
 - index.html: [`CC0`](./INDEX_HTML_LICENSE)
+
+这些全都是可替换组件，你完全可以参考它们制作你自己的版本使用
